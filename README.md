@@ -1,6 +1,6 @@
-### Hello I'm Moon!
+### Hello there I am lxzt
 
-Java Python Node.js C# (partial) GoLang (partial)
+Java, Python, Node.js, C# (partial)
 
 If you need to contact me, add me on Discord lxzt#4962
 
