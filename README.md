@@ -1,5 +1,6 @@
 ### Hello there I am lxzt
 
+### Languages I know
 Java, Python, Node.js, C# (partial)
 
 If you need to contact me, add me on Discord lxzt#4962
